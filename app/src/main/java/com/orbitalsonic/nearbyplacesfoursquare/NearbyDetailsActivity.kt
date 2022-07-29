@@ -40,7 +40,7 @@ class NearbyDetailsActivity : AppCompatActivity() {
 
     // Default current location is London
     private var currentLocation: MapLocation = MapLocation(51.507359, -0.136439)
-    private var categoryType = "00000"
+    private var categoryType = "10000"
 
     private var progressDialog: Dialog? = null
 
